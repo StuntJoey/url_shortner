@@ -1,0 +1,29 @@
+{
+  "name": "url_shortner",
+  "version": "0.0.1",
+  "engine": {"node": "~4.5.0"},
+  "description": "assign new routes to websites",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StuntJoey/url_shortner.git"
+  },
+  "author": "Wesley Hutchinson",
+  "dependencies": {
+    "express": "~3.2.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "freecodecamp",
+    "request",
+    "routes"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StuntJoey/url_shortner/issues"
+  },
+  "homepage": "https://github.com/StuntJoey/url_shortner#readme"
+}
